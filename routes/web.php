@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('coba', function(){
     return "Halo \O";
 });
+
+Route::get('coba2', function(){
+    return "Halo \O lagi";
+});
